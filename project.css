@@ -1,0 +1,67 @@
+body{
+	background-color: pink
+	;
+}
+
+#part1{
+	background-color: turquoise;
+	border:5px solid black;
+	height: 400px;
+	width: 950px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#btn{
+	margin: 50px auto;
+	height: 50px;
+	width: 200px;
+	font-size: 20px;
+	background-color: cyan;
+	border-radius: 5%;
+}
+
+#output{
+	margin: 30px auto;
+	font-size: 25px;
+	color: white;
+}
+
+#previous{
+	color: white;
+	background-color: lightpink;
+	height: 40px;
+	width: 100px;
+}
+
+#next{
+	color: white;
+	background-color: violet;
+	height: 40px;
+	width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
